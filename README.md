@@ -2,7 +2,7 @@
 UK E-Commerce Sales Analysis · Customer retention risk, revenue concentration, and seasonal trends · PostgreSQL + HTML Dashboard.
 
 # 🛒 E-Commerce Sales Analysis
-**Tools:** PostgreSQL · HTML/CSS/JavaScript · Chart.js  
+**Tools:** PostgreSQL · Google, CLaudeAI  
 **Dataset:** UCI Online Retail Dataset · 541,909 transactions · Dec 2010–Dec 2011
 
 ## Business Problem
