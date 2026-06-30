@@ -22,7 +22,7 @@ Losing 50 of them could wipe out £500K+ in annual revenue.
 ## Files
 | File | Description |
 |------|-------------|
-| `ecommerce_dashboard.html` | Interactive dashboard — open in any browser |
+| `https://uk-e-commerce-dashboard.netlify.app/` | Interactive dashboard — open in any browser |
 
 ## Dashboard Preview
-> Open `ecommerce_dashboard.html` in your browser to explore the full interactive dashboard.
+> Open `https://uk-e-commerce-dashboard.netlify.app/` in your browser to explore the full interactive dashboard.
